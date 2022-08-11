@@ -1,14 +1,12 @@
-<div align="center">
-    <img style="width:12rem; height:auto" src="https://preview.redd.it/uv9z8mk5w9241.jpg?width=640&crop=smart&auto=webp&s=b16af12e336f660330ef4c7f20747d8e0b946bcf"/>
-  </div>
----
+<div align="center"><img style="width:12rem; height:auto" src="https://preview.redd.it/uv9z8mk5w9241.jpg?width=640&crop=smart&auto=webp&s=b16af12e336f660330ef4c7f20747d8e0b946bcf"/></div>
 
 ## Hi there! I'm Eric <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 ⚡ I'm A programming Enthusiast who specializes in currently nothing, still havent found the one
+
 ---
+
 #### Other Things About Me
-- I'm currently Interested in Systems programmig in low level systems
-- I love discussing stuff about software architecture and engineering best practices
+- I'm Fascinated with how a computer works, how a set of 8 binary numbers can represent 256 values, how binary arithmetic
 - I'm currently Interested in Systems programmig on low level systems, So I'm learning Rust, C++, Zig, and ASM (its quite the pain)
 ---
 ## Languages (ordered in experience)
