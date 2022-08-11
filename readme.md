@@ -12,7 +12,7 @@
 ---
 ## Languages (ordered in experience)
 <p align="center">
-<img src="python.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="python-transparent.webp" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="rust.png" alt="Rust" height="40" style="vertical-align:top; margin:4px">
 <img src="csharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
 <img src="c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
