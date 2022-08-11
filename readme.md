@@ -6,8 +6,9 @@
 ---
 
 #### Other Things About Me
-- I'm Fascinated with how a computer works, how a set of 8 binary numbers can represent 256 values, how binary arithmetic
+- I'm Fascinated with how a computer works, how a set of 8 binary numbers can represent 256 values, how binary can turn sets of 1s and 0s to a base 10 number
 - I'm currently Interested in Systems programmig on low level systems, So I'm learning Rust, C++, Zig, and ASM (its quite the pain)
+- I recently worked on language development and I created a [Organization](https://github.com/The-Amadeus-Project) dedicated to it
 ---
 ## Languages (ordered in experience)
 <p align="center">
