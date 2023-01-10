@@ -4,11 +4,12 @@
 ---
 
 #### Other Things About Me
-- I'm Fascinated with how a computer works, how a set of 8 binary numbers can represent 256 values, and Binary Arithmetic(this one gave me the chills)
-- I'm currently Interested in Systems programmig on low level systems, So I'm learning Rust, C++, Zig, and ASM (its quite the pain)
-- I recently worked on language development and I created a [Organization](https://github.com/The-Amadeus-Project) dedicated to it
+- I'm very Interested in Systems programming on low level systems
+- I can quickly adapt to new Environment, I've been Branch hopping, from Sys dev to lang dev to web dev
+- I have Very WEAK designing skills
+- My final goal would most likely be creating and maintaining a Simulation.
 ---
-## Languages (ordered in experience)
+## Languages I Know
 <p align="center">
 <img src="python-transparent.webp" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="rust.png" alt="Rust" height="40" style="vertical-align:top; margin:4px">
