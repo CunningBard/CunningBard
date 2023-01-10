@@ -1,14 +1,13 @@
 ## Hi there! I'm Eric <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 ⚡ I'm a programming Enthusiast who specializes in currently nothing, still havent found the one
 
----
 
 #### Other Things About Me
 - I'm very Interested in Systems programming on low level systems
 - I can quickly adapt to new Environment, I've been Branch hopping, from Sys dev to lang dev to web dev
 - I have Very WEAK designing skills
 - My final goal would most likely be creating and maintaining a Simulation.
----
+
 ## Languages I Know
 <p align="center">
 <img src="python-transparent.webp" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -21,7 +20,6 @@
 </p>
 
 ## GitHub Stats
-----
   
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
@@ -32,7 +30,6 @@
   
 </div>
 
-----
 
 ## Reach Me
-- <img src="discord.png" height="15"> my IGN is CunningBard#9908
+- <img src="discord.png" height="30"> my IGN is CunningBard#9908
