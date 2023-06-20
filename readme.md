@@ -1,4 +1,4 @@
-## Hi there! I'm Eric <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+## Hi there! I'm Shaun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 ⚡ I'm a programming Enthusiast who specializes in currently nothing, still havent found the one
 
 
